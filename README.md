@@ -1,8 +1,9 @@
 # fmri-functional-connectivity
 
 This repository contains Jupyter notebook: `functional_connectivity+prediction.ipynb`.
- `functional_connectivity+prediction.ipynb` followes the tutorial from [NI-edu](https://nilearn.github.io/dev/auto_examples/03_connectivity/plot_group_level_connectivity.html) and resting-state fMRI data from [Natural Scenes Dataset](https://naturalscenesdataset.org/)
+ `functional_connectivity+prediction.ipynb` followes the tutorial from [NI-edu](https://nilearn.github.io/dev/auto_examples/03_connectivity/plot_group_level_connectivity.html) and resting-state fMRI data from [Natural Scenes Dataset](https://naturalscenesdataset.org/).
 
+Below is a brief summary of it's content: 
 
 ### `functional_connectivity+prediction.ipynb`
 This notebook focuses on functional connectivity and prediction tasks in fMRI data analysis:
